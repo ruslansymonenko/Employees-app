@@ -1,0 +1,20 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px auto;
+    padding: 15px;
+    max-width: 1000px;
+    min-height: 700px;
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 9px 13px -3px rgba(0,0,0,0.62);
+    -moz-box-shadow: 2px 9px 13px -3px rgba(0,0,0,0.62);
+    box-shadow: 2px 9px 13px -3px rgba(0,0,0,0.62);
+    background-color: #dfe6e9e4;
+}
+
+.search_panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
